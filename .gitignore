@@ -1,0 +1,7 @@
+# personal camera recordings and pictures — never commit
+Clips/
+Snapshots/
+
+# build output
+*.app/
+.DS_Store
